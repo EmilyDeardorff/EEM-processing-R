@@ -4,11 +4,8 @@
 ## Packages Required: 
 ## tidyselect, dplyr, purrr, eemR, DT
 ##
-## Written: 
-## Emily Deardorff 7/23/2019 (emily.deardorff@gmail.com)
-##
 ## Last Updated: 
-## Emily Deardorff 7/23/2019
+## Emily Deardorff 7/23/2019 (emily.deardorff@gmail.com)
 
 
 # ********************************************************************
@@ -19,8 +16,8 @@
 # If you are using Windows, make sure to use double backslashes (\\).
 # File naming conventions are different for iOS, so the code won't immediately work on Macs.
 
-path = "C:\\Users\\Emily\\Documents\\2019 Summer at UDel\\DATA_EEMs_Jul29\\Deardorff_7.29.19\\"
-csvname = "6.19_ReDiluted_KCWTP_Indices.csv"
+path = "C:\\Users\\Emily\\Documents\\"
+csvname = "Indices.csv"
 
 # Once you have filled in these two variables, run the code below all at once.
 # ********************************************************************
